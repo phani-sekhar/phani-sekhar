@@ -1,8 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phanisekharsarma/
-<!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
-<!-- [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phanisekharsarma/)](https://www.linkedin.com/in/phanisekharsarma/)
 
 I'm a Full Stack Web Developer
 
