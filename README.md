@@ -1,14 +1,12 @@
 ### Hi Developers 👋
 
-<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phanisekharsarma/
 <!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
 <!-- [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-) -->
 
-I'm
-Full Stack Developer
+I'm a Full Stack Web Developer
 
-A huge interest in UI and UX designing launched me in the area of MERN Stack. I have a wide range of skills that include both front-end and back-end development. I can work with all the open source technologies, frameworks and libraries like HTML, CSS, Bootstrap, JavaScript, React, MongoDB, Node, Express and PHP.
+A huge interest in UI and UX designing launched me in the area of MERN Stack. I have a wide range of skills that include both front-end and back-end development. I can work with the open source technologies, frameworks and libraries like HTML, CSS, Bootstrap, JavaScript, React, MongoDB, Node, Express and PHP.
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
