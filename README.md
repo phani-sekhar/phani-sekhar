@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Phani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phanisekharsarma/)](https://www.linkedin.com/in/phanisekharsarma/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Phani-yellow)](https://stackoverflow.com/users/19611767/phani-sekhar)
-<!---[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)--->
+[![Website Badge](https://img.shields.io/badge/WebSite-Phani-green)](https://phani-sekhar.github.io/phaniprofile/)
 <!---[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)--->
 
 I'm a Full Stack Web Developer
